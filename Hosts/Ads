@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 21,922
-# Updated: 5/17/2025  12:15 (12:15 PM CST)
+# Domains: 21,924
+# Updated: 5/18/2025  12:31 (12:31 PM CST)
 #
 0.0.0.0 0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com
 0.0.0.0 00px.net
@@ -6181,6 +6181,7 @@
 0.0.0.0 advertising-alliance.de
 0.0.0.0 advertising.amazon.com
 0.0.0.0 advertising.amazon.com.be
+0.0.0.0 advertising.amazon.dev
 0.0.0.0 advertising.aol.com
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advertising.apple.com
@@ -20531,6 +20532,7 @@
 0.0.0.0 valuad.mx
 0.0.0.0 valuead.com
 0.0.0.0 valueadvert.com
+0.0.0.0 valuebuttons.com
 0.0.0.0 valueclick.com
 0.0.0.0 valueclick.de
 0.0.0.0 valueclick-europe.com

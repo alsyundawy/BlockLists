@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,377
-# Updated: 5/17/2025  12:15 (12:15 PM CST)
+# Domains: 4,383
+# Updated: 5/18/2025  12:31 (12:31 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -218,6 +218,7 @@
 0.0.0.0 abre.pub
 0.0.0.0 abr.to
 0.0.0.0 abso.lt
+0.0.0.0 accessmy.tax
 0.0.0.0 accommodatingly.xyz
 0.0.0.0 acconpit.com
 0.0.0.0 account-verification-man-seeking-man-mps.live
@@ -499,6 +500,7 @@
 0.0.0.0 bcvcurl.info
 0.0.0.0 bddugi.com
 0.0.0.0 bdf.net
+0.0.0.0 bd-fw.com
 0.0.0.0 bdjk.info
 0.0.0.0 bdtvzl.com
 0.0.0.0 becakrcg.xyz
@@ -804,6 +806,7 @@
 0.0.0.0 clickhub.cc
 0.0.0.0 clicksfly.com
 0.0.0.0 clicktosee.live
+0.0.0.0 clickurl.link
 0.0.0.0 cli.fm
 0.0.0.0 clik.rip
 0.0.0.0 clikx.net
@@ -4154,7 +4157,9 @@
 0.0.0.0 wpzxf.top
 0.0.0.0 wq.lt
 0.0.0.0 wrdsdaily.com
+0.0.0.0 wrqtc.com
 0.0.0.0 wru.kr
+0.0.0.0 wsdxfn.com
 0.0.0.0 ws.tc
 0.0.0.0 wts2.smhi.se
 0.0.0.0 wts3.smhi.se
@@ -4378,6 +4383,7 @@
 0.0.0.0 zup.so
 0.0.0.0 zurl.ir
 0.0.0.0 z-url.xyz
+0.0.0.0 zvjqn.com
 0.0.0.0 zwagyi9.live
 0.0.0.0 zws.im
 0.0.0.0 zzb.bz

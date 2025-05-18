@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,377
-# Updated: 5/17/2025  12:15 (12:15 PM CST)
+# Domains: 4,383
+# Updated: 5/18/2025  12:31 (12:31 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -222,6 +222,7 @@ abre.ae
 abre.pub
 abr.to
 abso.lt
+accessmy.tax
 accommodatingly.xyz
 acconpit.com
 account-verification-man-seeking-man-mps.live
@@ -503,6 +504,7 @@ bc.tc
 bcvcurl.info
 bddugi.com
 bdf.net
+bd-fw.com
 bdjk.info
 bdtvzl.com
 becakrcg.xyz
@@ -808,6 +810,7 @@ clic.ae
 clickhub.cc
 clicksfly.com
 clicktosee.live
+clickurl.link
 cli.fm
 clik.rip
 clikx.net
@@ -4158,7 +4161,9 @@ wptrckr.com
 wpzxf.top
 wq.lt
 wrdsdaily.com
+wrqtc.com
 wru.kr
+wsdxfn.com
 ws.tc
 wts2.smhi.se
 wts3.smhi.se
@@ -4382,6 +4387,7 @@ zum.bi
 zup.so
 zurl.ir
 z-url.xyz
+zvjqn.com
 zwagyi9.live
 zws.im
 zzb.bz
