@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,385
-# Updated: 5/18/2025  20:02 (8:02 PM CST)
+# Domains: 4,386
+# Updated: 5/19/2025  10:10 (10:10 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3560,6 +3560,7 @@ t.im
 tim.com.vc
 tinderurl.com
 tinesy.com
+tinky.cc
 tinu.be
 tinybit.cc
 tiny.cc
