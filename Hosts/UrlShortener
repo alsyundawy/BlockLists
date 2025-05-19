@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,383
-# Updated: 5/18/2025  12:31 (12:31 PM CST)
+# Domains: 4,385
+# Updated: 5/18/2025  20:02 (8:02 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -3996,6 +3996,7 @@
 0.0.0.0 vnl.vn
 0.0.0.0 vnshortener.com
 0.0.0.0 vnypd.com
+0.0.0.0 volamtruyenky.life
 0.0.0.0 vpaaj.com
 0.0.0.0 vp-link.com
 0.0.0.0 vpn2.win
@@ -4385,5 +4386,6 @@
 0.0.0.0 z-url.xyz
 0.0.0.0 zvjqn.com
 0.0.0.0 zwagyi9.live
+0.0.0.0 zwfmr.com
 0.0.0.0 zws.im
 0.0.0.0 zzb.bz

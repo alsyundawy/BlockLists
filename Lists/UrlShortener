@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,383
-# Updated: 5/18/2025  12:31 (12:31 PM CST)
+# Domains: 4,385
+# Updated: 5/18/2025  20:02 (8:02 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -4000,6 +4000,7 @@ vnlink.top
 vnl.vn
 vnshortener.com
 vnypd.com
+volamtruyenky.life
 vpaaj.com
 vp-link.com
 vpn2.win
@@ -4389,5 +4390,6 @@ zurl.ir
 z-url.xyz
 zvjqn.com
 zwagyi9.live
+zwfmr.com
 zws.im
 zzb.bz
