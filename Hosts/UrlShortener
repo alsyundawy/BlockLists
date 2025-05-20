@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,394
-# Updated: 5/19/2025  23:22 (11:22 PM CST)
+# Domains: 4,399
+# Updated: 5/20/2025  11:58 (11:58 AM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -889,6 +889,7 @@
 0.0.0.0 ctx.ink
 0.0.0.0 cukbaray.com
 0.0.0.0 culture1.live
+0.0.0.0 cuoinamdiedm.life
 0.0.0.0 cupoms.info
 0.0.0.0 curious-cat.live
 0.0.0.0 curl.pk
@@ -3569,6 +3570,7 @@
 0.0.0.0 tinycheck9.life
 0.0.0.0 tiny-check-9.live
 0.0.0.0 tinycheck9.live
+0.0.0.0 t-iny.com
 0.0.0.0 tiny.do
 0.0.0.0 tinyfy.me
 0.0.0.0 tiny.ie
@@ -3588,6 +3590,7 @@
 0.0.0.0 tiny.tw
 0.0.0.0 tinyuri.com
 0.0.0.0 tinyurl.dev
+0.0.0.0 tiny-url.me
 0.0.0.0 tinyurl.mobi
 0.0.0.0 tinyurl.ph
 0.0.0.0 tinyurl.rocks
@@ -3805,6 +3808,7 @@
 0.0.0.0 upyun.online
 0.0.0.0 upziq.com
 0.0.0.0 ur1.lt
+0.0.0.0 ur4l.com
 0.0.0.0 ur.fish
 0.0.0.0 url.1.hubs.vn
 0.0.0.0 url1.io
@@ -3962,6 +3966,7 @@
 0.0.0.0 vendoagora.live
 0.0.0.0 vercels.app
 0.0.0.0 veshort.com
+0.0.0.0 vestil.org
 0.0.0.0 vfnzvr.com
 0.0.0.0 v.gd
 0.0.0.0 vgnx.co
