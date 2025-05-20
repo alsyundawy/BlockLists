@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,399
-# Updated: 5/20/2025  11:58 (11:58 AM CST)
+# Domains: 4,400
+# Updated: 5/20/2025  16:13 (4:13 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -3600,6 +3600,7 @@
 0.0.0.0 tinyurl.win
 0.0.0.0 tinyurlz.co
 0.0.0.0 tiny.us
+0.0.0.0 tinyy.xyz
 0.0.0.0 tiny.zodia.studio
 0.0.0.0 t.iotex.me
 0.0.0.0 tipeos.com

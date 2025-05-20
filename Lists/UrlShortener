@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,399
-# Updated: 5/20/2025  11:58 (11:58 AM CST)
+# Domains: 4,400
+# Updated: 5/20/2025  16:13 (4:13 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3604,6 +3604,7 @@ tinyurlwebsite.com
 tinyurl.win
 tinyurlz.co
 tiny.us
+tinyy.xyz
 tiny.zodia.studio
 t.iotex.me
 tipeos.com

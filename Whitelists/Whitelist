@@ -275,12 +275,13 @@ dpservice.fidelity.com                               #Fidelity - Data download
 iris06-gold-ssl.gameloft.com                         #Gameloft - Prevents games from starting
 notifications-pa.googleapis.com                  #Google   2FA - Sends notification to phone/tablet
 androidplatformbackuprestore-pa.googleapis.com   #Google   Android (Backup)
-cryptauthenrollment.googleapis.com               #Google   Android (Set Payment Info)
-ota-cache1.googlezip.net                         #Google   Android (System Updates)
 androidtvlauncherxfe-pa.googleapis.com           #Google   Android (Check for internet)
-play-lh.googleusercontent.com                    #Google   Android (Store Images)
-gameswhitelisted.googleapis.com                  #Google   Android (Game signin)
+contactsui-pa.googleapis.com                     #Google   Android (Messages)  Breaks 'Your Profile'
+cryptauthenrollment.googleapis.com               #Google   Android (Set Payment Info)
 discover-pa.googleapis.com                       #Google   Android (News Page - Far left home screen)
+gameswhitelisted.googleapis.com                  #Google   Android (Game signin)
+ota-cache1.googlezip.net                         #Google   Android (System Updates)
+play-lh.googleusercontent.com                    #Google   Android (Store Images)
 tasks-pa.clients6.google.com                     #Google   Calendar Sync (Phone)
 tasks-pa.googleapis.com                          #Google   Calendar Sync (Phone)
 clients3.google.com                              #Google   ChromeOS Signin (connection is limited)
