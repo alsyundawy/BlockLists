@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,392
-# Updated: 5/19/2025  19:10 (7:10 PM CST)
+# Domains: 4,394
+# Updated: 5/19/2025  23:22 (11:22 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3807,6 +3807,7 @@ upfull.fr
 upriserz.link
 upt.sh
 upyun.online
+upziq.com
 ur1.lt
 ur.fish
 url.1.hubs.vn
@@ -4172,6 +4173,7 @@ wrqtc.com
 wru.kr
 wsdxfn.com
 ws.tc
+wsvcg.sbs
 wts2.smhi.se
 wts3.smhi.se
 wucgp.com

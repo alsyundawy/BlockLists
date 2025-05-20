@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,392
-# Updated: 5/19/2025  19:10 (7:10 PM CST)
+# Domains: 4,394
+# Updated: 5/19/2025  23:22 (11:22 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -3803,6 +3803,7 @@
 0.0.0.0 upriserz.link
 0.0.0.0 upt.sh
 0.0.0.0 upyun.online
+0.0.0.0 upziq.com
 0.0.0.0 ur1.lt
 0.0.0.0 ur.fish
 0.0.0.0 url.1.hubs.vn
@@ -4168,6 +4169,7 @@
 0.0.0.0 wru.kr
 0.0.0.0 wsdxfn.com
 0.0.0.0 ws.tc
+0.0.0.0 wsvcg.sbs
 0.0.0.0 wts2.smhi.se
 0.0.0.0 wts3.smhi.se
 0.0.0.0 wucgp.com
