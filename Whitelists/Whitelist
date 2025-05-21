@@ -485,6 +485,7 @@ deposit.us.shopifycs.com                             #Shopping Sites (Breaks Che
 dyncdn.me                                            #Torrents - Pictures
 n-device-api.tplinkcloud.com                         #TP-Link - Firmware Updates
 k.twitchcdn.net                                      #Twitch - Breaks login, follow channel
+ubiquiti.ada.support                                 #Ubiquiti - Breaks login (Trust Device)
 static.ui.com                                        #Ubiquiti - NVR (Icons)
 unpkg.com                                            #Ubiquiti - NVR
 api-gw.uid.alpha.ui.com                              #Ubiquiti - NVR (Application Updates)

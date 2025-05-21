@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,400
-# Updated: 5/20/2025  16:13 (4:13 PM CST)
+# Domains: 4,402
+# Updated: 5/21/2025  00:12 (12:12 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1387,6 +1387,7 @@ ghntinyurl.com
 ghxgw.com
 gil.re
 girlte.ch
+giv.red
 gkurl.us
 glo.wf
 glowin88.site
@@ -4244,6 +4245,7 @@ xqhye.com
 xqrib.sbs
 xrl.cz
 xrshort.eu
+xryab.com
 xsl.pt
 xsurl.eu
 xtaxf.top
