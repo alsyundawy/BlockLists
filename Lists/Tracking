@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 116,710
-# Updated: 8/18/2025  23:15 (11:15 PM CST)
+# Domains: 116,707
+# Updated: 8/19/2025  00:28 (12:28 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -29124,7 +29124,6 @@ events.betterwild.com
 events.bettsrecruiting.com
 events.blservaudio.com
 events.cefpro.com
-events.centerfield.com
 events.character.ai
 event.sc.iqoption.com
 events.cjschmidt.de
@@ -39356,7 +39355,6 @@ ipv4.kiki.zalo.ai
 ipv4now.com
 ipv4.tipsport.cz
 ipv4.webshare.io
-ipv6-2.sdiptest.com
 ipv6.run
 ipv6.xiaoxitech.com
 ipvigilante.com
@@ -108054,7 +108052,6 @@ tracking.cdiscount.com
 tracking-cdn.rdc.moveaws.com
 tracking.cdn.vpsvc.com
 tracking.cellagon.de
-tracking.centerfield.com
 tracking.centrixlink.com
 tracking.cerdmann.com
 tracking.chess.com
