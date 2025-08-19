@@ -39,6 +39,7 @@ sf-api-token-service.itunes.apple.com               #Shazam                  Won
 gd57zlusmo-1.algolianet.com                         #Simple Radio            Breaks Search
 gd57zlusmo-2.algolianet.com                         #Simple Radio            Breaks Search
 gd57zlusmo-3.algolianet.com                         #Simple Radio            Breaks Search
+n-use1-wap.i.tplinkcloud.com                        #Tp-Link: Thether        Breaks cloud device list
 ctilesgcs-am.waze.com                               #Wayze                   Map tiles
 gapi.waze.com                                       #Wayze                   Search for address
 rt.waze.com                                         #Wayze                   Won't open
@@ -112,6 +113,7 @@ files.roborock.com                                  #Roborock               Firm
 a2uowfjvhio0fa-ats.iot.us-east-1.amazonaws.com      #Roomba                 Connect to internet *Vacuum
 a2uowfjvhio0fa.iot.us-east-1.amazonaws.com          #Roomba                 Connect to internet *Vacuum
 n-use1-dw.tplinkcloud.com                           #TP-Link                Router Firmware
+n-device-api.tplinkcloud.com                        #TP-Link                Router Firmware Updates
 
 
 #####################################################
@@ -491,7 +493,6 @@ api.checkout.com                                     #Shopping Sites (Breaks Onl
 checkout.shopifycs.com                               #Shopping Sites (Breaks Checkout) *Shopify
 deposit.us.shopifycs.com                             #Shopping Sites (Breaks Checkout) *Shopify
 dyncdn.me                                            #Torrents - Pictures
-n-device-api.tplinkcloud.com                         #TP-Link - Firmware Updates
 k.twitchcdn.net                                      #Twitch - Breaks login, follow channel
 ubiquiti.ada.support                                 #Ubiquiti - Breaks login (Trust Device)
 static.ui.com                                        #Ubiquiti - NVR (Icons)

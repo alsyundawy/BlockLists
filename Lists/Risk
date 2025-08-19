@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 214
-# Updated: 8/17/2025  10:43 (10:43 AM CST)
+# Domains: 216
+# Updated: 8/18/2025  23:15 (11:15 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -103,6 +103,7 @@ sharemyinsight.com                               #Customer Monitoring *Not likel
 ###########################################################################################
 #  Hacking
 ###########################################################################################
+darkforums.st                                    #Forum
 lolz.guru                                        #Forum
 lolz.live                                        #Forum
 
@@ -227,6 +228,7 @@ packetstream.io                                  #Proxy - Known to be abused
 burrow.io                                        #Share Localhost
 localhost.run                                    #Share Localhost
 localtunnel.me                                   #Share Localhost
+loophole.site                                    #Share Localhost
 ngrok.io                                         #Share Localhost
 showoff.io                                       #Share Localhost
 
