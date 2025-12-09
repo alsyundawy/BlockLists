@@ -377,6 +377,7 @@ g.live.com                                              #Microsoft   .Net Framew
 licensing.mp.microsoft.com                              #Microsoft   Activate Windows
 cart.production.store-web.dynamics.com                  #Microsoft   Add Payment Info
 th.bing.com                                             #Microsoft   Bing Images
+mobileappcommunicator.auth.microsoft.com                #Microsoft   Breaks Authenticator
 aadcdn.msauth.net                                       #Microsoft   Breaks Images
 edgestatic-ehf9gbe6gfdfdec4.z01.azurefd.net             #Microsoft   Breaks Website
 mem.gfx.ms                                              #Microsoft   Breaks Website (Login)

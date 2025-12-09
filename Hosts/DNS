@@ -1,11 +1,12 @@
 #
 #    File: DNS
 #    Info: DNS Resolvers
-# Domains: 135
-# Updated: 9/23/2025  23:43 (11:43 PM CST)
+# Domains: 136
+# Updated: 12/9/2025  15:48 (3:48 PM CST)
 #
 0.0.0.0 doh.360.cn
 0.0.0.0 dot.360.cn
+0.0.0.0 adfilter.net
 0.0.0.0 adguard.com
 0.0.0.0 adguard-dns.com
 0.0.0.0 adguard-dns.io

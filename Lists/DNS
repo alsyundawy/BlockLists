@@ -1,8 +1,8 @@
 #
 #    File: DNS
 #    Info: DNS Resolvers
-# Domains: 135
-# Updated: 9/23/2025  23:43 (11:43 PM CST)
+# Domains: 136
+# Updated: 12/9/2025  15:48 (3:48 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/DNS
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -10,6 +10,7 @@
 
 doh.360.cn                                              #360 Security
 dot.360.cn                                              #360 Security
+adfilter.net                                            #AdFilter
 adguard.com                                             #AdGuard
 adguard-dns.com                                         #AdGuard
 adguard-dns.io                                          #AdGuard

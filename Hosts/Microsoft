@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 579
-# Updated: 10/12/2025  18:11 (6:11 PM CST)
+# Domains: 578
+# Updated: 12/9/2025  15:48 (3:48 PM CST)
 #
 0.0.0.0 api.cognitive.microsoft.com
 0.0.0.0 australiaeast.api.cognitive.microsoft.com
@@ -476,7 +476,6 @@
 0.0.0.0 microsoft.net
 0.0.0.0 microsoftonline.com
 0.0.0.0 microsoft.us
-0.0.0.0 mobileappcommunicator.auth.microsoft.com
 0.0.0.0 modpim.com
 0.0.0.0 msappproxy.net
 0.0.0.0 mscrl.microsoft.com
