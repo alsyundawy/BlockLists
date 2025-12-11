@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 16,894
-# Updated: 12/9/2025  15:48 (3:48 PM CST)
+# Domains: 16,893
+# Updated: 12/11/2025  08:31 (8:31 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1266,7 +1266,6 @@ astutemetrics.com
 astutesolutions.com
 asymmetric.pro
 asyrutrk.com
-atatus.com
 atcustomerlabs.com
 atdmt.com
 atg3ws5gh.com

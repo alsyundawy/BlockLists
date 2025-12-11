@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,057
-# Updated: 11/26/2025  08:55 (8:55 AM CST)
+# Domains: 1,058
+# Updated: 12/11/2025  08:31 (8:31 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -169,6 +169,7 @@ fs2.download82.com                               #Software Hosting
 fyxm.net                                         #Software Hosting
 getitfree.us                                     #Software Hosting
 jetelecharge.com                                 #Software Hosting
+lo4d.com                                         #Software Hosting
 oovoo.com                                        #Software Hosting
 qarchive.org                                     #Software Hosting
 sftapi.com                                       #Software Hosting
