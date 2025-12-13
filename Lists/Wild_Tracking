@@ -2,7 +2,7 @@
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
 # Domains: 16,893
-# Updated: 12/11/2025  08:31 (8:31 AM CST)
+# Updated: 12/13/2025  14:19 (2:19 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -4207,6 +4207,7 @@ foretagsplatsen.se
 forgetfulflowers.com
 forgetfulsnail.com
 forkmedia.in
+formalytics.dev
 formalyzer.com
 formanalytica.com
 formotiv.com
@@ -6386,7 +6387,6 @@ lr-ingest.io
 lr-in-prod.com
 ls3mg2ez.com
 ls5b8h4tr.com
-ls.apple.com
 lsc-digital-public-health.de
 lsc-diph.de
 lsdm.co
