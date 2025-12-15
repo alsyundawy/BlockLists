@@ -1,8 +1,8 @@
 #
 #    File: Fonts
 #    Info: Fonts
-# Domains: 161
-# Updated: 11/6/2025  12:31 (12:31 PM CST)
+# Domains: 162
+# Updated: 12/15/2025  15:37 (3:37 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Fonts
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -75,6 +75,7 @@ fonts-gstatic-com.cdn.ampproject.org
 fonts-gstatic-com.translate.goog
 fonts.hamburg.de
 fontshare.com
+fonts.hinge.co
 fonts.intercomcdn.com
 fonts.iu.edu
 fonts.jimstatic.com
