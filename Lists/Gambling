@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,278
-# Updated: 11/20/2025  14:51 (2:51 PM CST)
+# Domains: 9,281
+# Updated: 12/16/2025  20:29 (8:29 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambling
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -5266,6 +5266,8 @@ lottery.co.za
 lottery.dk
 lottery.ie
 lottery-insurance.com
+lotteryjackpot.net
+lotterymania.net
 lottery.ok.gov
 lotteryplus.net
 lotterypost.com
@@ -5275,6 +5277,7 @@ lottery.sd.gov
 lottery.sg
 lottery.xyz
 lotto649.ca
+lottoextra.net
 lottomax.ca
 lotto-rlp.de
 lottosod888.site
