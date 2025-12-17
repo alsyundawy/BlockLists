@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 16,887
-# Updated: 12/15/2025  14:06 (2:06 PM CST)
+# Domains: 16,883
+# Updated: 12/16/2025  22:42 (10:42 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -13973,6 +13973,7 @@ sierrate.com
 sievo.com
 siftscience.com
 signal-ai.com
+signalfx.com
 signalmedia.co
 signals-analytics.com
 signaturepod.com
@@ -14375,11 +14376,6 @@ splerg.com
 split.io
 splk.it
 splkmobile.com
-splunkcloud.com
-splunk.com
-splunk.com.ag
-splunk.net.bz
-splunk.nom.es
 spn9htwtrk.com
 spongecell.com
 spongesalt.com

@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 16,887
-# Updated: 12/15/2025  14:06 (2:06 PM CST)
+# Domains: 16,883
+# Updated: 12/16/2025  22:42 (10:42 PM CST)
 #
 0.0.0.0 02good4u.com
 0.0.0.0 0cf.io
@@ -13969,6 +13969,7 @@
 0.0.0.0 sievo.com
 0.0.0.0 siftscience.com
 0.0.0.0 signal-ai.com
+0.0.0.0 signalfx.com
 0.0.0.0 signalmedia.co
 0.0.0.0 signals-analytics.com
 0.0.0.0 signaturepod.com
@@ -14371,11 +14372,6 @@
 0.0.0.0 split.io
 0.0.0.0 splk.it
 0.0.0.0 splkmobile.com
-0.0.0.0 splunkcloud.com
-0.0.0.0 splunk.com
-0.0.0.0 splunk.com.ag
-0.0.0.0 splunk.net.bz
-0.0.0.0 splunk.nom.es
 0.0.0.0 spn9htwtrk.com
 0.0.0.0 spongecell.com
 0.0.0.0 spongesalt.com
