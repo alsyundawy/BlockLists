@@ -9189,6 +9189,7 @@ cms.aq.com
 cmsasset.ancestrycdn.com
 cms-assets.jackboxgames.com
 cms-assets.tutsplus.com
+cms-assets.unrealengine.com
 cms-assets.xboxservices.com
 cms.bresser.de
 cms-cache.ubisoft.com
@@ -25864,6 +25865,8 @@ metadata.templates.cdn.office.net
 metafilter.com
 metageek.com
 metageek.link
+metahuman.com
+metahuman.com.cdn.cloudflare.net
 meta_image_generator.theposterdb.com
 metalcloak.com
 metaldetector.com
@@ -30014,6 +30017,7 @@ payments.juspay.in
 payments-pa.googleapis.com
 payments.sfsh.com
 payments-uk.amazon.com
+payment-website-pci.ol.epicgames.com
 payouts.payoneer.com
 paypage.bhphotovideo.com
 paypal.asia
@@ -36561,7 +36565,9 @@ static-assets.gotinder.com
 static-assets.nike.com
 static-assets.npr.org
 static-assets-prod.epicgames.com
+static-assets-prod.epicgames.com.cdn.cloudflare.net
 static-assets-prod.unrealengine.com
+static-assets-prod.unrealengine.com.cdn.cloudflare.net
 static-assets.strikinglycdn.com
 static.athenanet.athenahealth.com
 static.atncorp.com
@@ -37336,6 +37342,7 @@ store.dji.com
 store.ecompanystore.com
 storeedgefd.dsx.mp.microsoft.com
 store.epicgames.com
+store.epicgames.com.cdn.cloudflare.net
 store.farm-biz.com
 store.fastly.steamstatic.com
 store.feralinteractive.com
@@ -38529,6 +38536,8 @@ talladegatractor.com
 tallahassee.com
 tallgrass.church
 talongungrips.com
+talon-service-prod.ecosec.on.epicgames.com
+talon-service-prod.ecosec.on.epicgames.com.cdn.cloudflare.net
 talosintelligence.com
 taloussanomat.fi
 talsmastrailpark.com
@@ -40941,6 +40950,7 @@ twingalaxies.com
 twingate.com
 twinkl.com
 twinmotion.com
+twinmotion.com.cdn.cloudflare.net
 twinsbaseball.com
 twins.fancam.com
 twin.sh
@@ -41332,6 +41342,7 @@ unraid-guides.com
 unraid.net
 unravelingwine.com
 unrealengine.com
+unrealengine.com.cdn.cloudflare.net
 unsplash.com
 unsplash.kizoa.pl
 unsubscribe.convertkit-mail.com

@@ -57,9 +57,10 @@ zna7usvzk4.execute-api.us-east-1.amazonaws.com      #Carbonite             Downl
 app-h5.dji.com                                      #DJI Fly               'Before You Fly'
 api.djiservice.org                                  #DJI Fly               Map
 dl.dropboxusercontent.com                           #DropBox               Download DropBox
-nsf-2.dropbox.com                                   #DropBox               Breaks Sync
+nsf-2.dropbox.com                                   #DropBox               Breaks sync
 eulatracking-public-service-prod.ak.epicgames.com   #Epic Games Launcher   Breaks game downloads
 eulatracking-public-service-prod06.ol.epicgames.com #Epic Games Launcher   Breaks game downloads
+talon-service-prod.ecosec.on.epicgames.com          #DropBox               Breaks login captcha
 blocklist.addons.mozilla.org                        #Firefox               Extensions
 geolocation.garmin.com                              #Garmin Express        Check for map updates
 ping-app1.idrive.com                                #iDrive                Breaks Login
