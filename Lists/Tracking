@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 113,616
-# Updated: 12/19/2025  01:37 (1:37 AM CST)
+# Domains: 113,617
+# Updated: 12/19/2025  01:39 (1:39 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -14656,6 +14656,7 @@ analytics.unl.edu.ar
 analytics.unlock.sh
 analytics.unmad.in
 analytics.unsolvedhunts.com
+analytics.unstable.life
 analytics.untap.in
 analytics.unterhaltungsbox.com
 analytics.unterholzer.dev
