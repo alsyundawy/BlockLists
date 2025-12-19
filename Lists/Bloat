@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 674
-# Updated: 12/11/2025  22:36 (10:36 PM CST)
+# Domains: 675
+# Updated: 12/19/2025  01:37 (1:37 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -114,6 +114,7 @@ ec2-18-216-208-225.us-east-2.compute.amazonaws.com      #Webpages - Icon (licens
 donorbox.org                                            #Webpages - Icon (Donate Button)
 d1sssn74k2rfxk.cloudfront.net                           #Webpages - Icon (Donate Button)
 s3.feedly.com                                           #Webpages - Icon (Follow Page)
+api.star-history.com                                    #Webpages - Image (Github start history chart)
 i.bigmir.net                                            #Webpages - Social Media (Sharing)
 usocial.pro                                             #Webpages - Social Media (Sharing)
 addtoany.com                                            #Webpages - Social Media (Universal Sharing)

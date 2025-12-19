@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 16,883
-# Updated: 12/16/2025  22:42 (10:42 PM CST)
+# Domains: 16,884
+# Updated: 12/19/2025  01:37 (1:37 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -16004,6 +16004,7 @@ verificationgreatholly.live
 verifyclicksolutions.com
 verifyvegetable.com
 verikai.com
+verint-cdn.com
 verint.com
 verisk.com
 verisk.co.uk

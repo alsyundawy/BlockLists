@@ -1,8 +1,8 @@
 #
 #    File: Dynamic
 #    Info: Dynamic DNS
-# Domains: 1,457
-# Updated: 11/20/2025  14:51 (2:51 PM CST)
+# Domains: 1,458
+# Updated: 12/19/2025  01:37 (1:37 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -701,6 +701,7 @@ imagetemplate.net
 imexsac.com
 imprendum.com
 independentonline.ro
+indevs.in
 inet2.org
 inflict.us
 info.gf
