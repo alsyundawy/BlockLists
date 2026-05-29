@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 7,254
-# Updated: 5/26/2026  16:05 (4:05 PM CST)
+# Domains: 7,256
+# Updated: 5/28/2026  23:13 (11:13 PM CST)
 #
 0.0.0.0 007-dvd.com
 0.0.0.0 0-google.com
@@ -6883,6 +6883,8 @@
 0.0.0.0 vipsportslasvegas.com
 0.0.0.0 virallights.com
 0.0.0.0 viralnewssocial.com
+0.0.0.0 viremar.com
+0.0.0.0 virezoa.com
 0.0.0.0 virginiacitizensarmory.com
 0.0.0.0 virtuallyk.com
 0.0.0.0 virtueness.com

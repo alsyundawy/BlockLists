@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,792
-# Updated: 5/26/2026  16:05 (4:05 PM CST)
+# Domains: 5,794
+# Updated: 5/28/2026  23:13 (11:13 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -1714,6 +1714,7 @@
 0.0.0.0 gdanstum.net
 0.0.0.0 gdtikx.com
 0.0.0.0 geefi.me
+0.0.0.0 geefi.net
 0.0.0.0 geetlink.com
 0.0.0.0 gef.me
 0.0.0.0 gegeshidzedato10.life
@@ -1765,6 +1766,7 @@
 0.0.0.0 ghxgw.com
 0.0.0.0 gil.re
 0.0.0.0 girlte.ch
+0.0.0.0 givecharleston.org
 0.0.0.0 giv.red
 0.0.0.0 gj.al
 0.0.0.0 gkurl.us
