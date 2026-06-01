@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 7,256
-# Updated: 5/28/2026  23:13 (11:13 PM CST)
+# Domains: 7,258
+# Updated: 6/1/2026  12:56 (12:56 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3599,6 +3599,7 @@ ky-guns.com
 labradoodle-breeder.com
 lacewell-us.com
 lacewigsbuy.com
+lacocina.shop
 ladangsherbs.com
 ladderlamp.com
 lafayettereporter.com
@@ -7241,6 +7242,7 @@ zanteeshop.com
 zco.com
 zealangel.com
 zedbubble.com
+zenatch.com
 zenhotels.com
 zetonelimited.com
 ziickgeektime.top

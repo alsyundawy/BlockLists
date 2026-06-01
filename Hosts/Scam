@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 7,256
-# Updated: 5/28/2026  23:13 (11:13 PM CST)
+# Domains: 7,258
+# Updated: 6/1/2026  12:56 (12:56 PM CST)
 #
 0.0.0.0 007-dvd.com
 0.0.0.0 0-google.com
@@ -3595,6 +3595,7 @@
 0.0.0.0 labradoodle-breeder.com
 0.0.0.0 lacewell-us.com
 0.0.0.0 lacewigsbuy.com
+0.0.0.0 lacocina.shop
 0.0.0.0 ladangsherbs.com
 0.0.0.0 ladderlamp.com
 0.0.0.0 lafayettereporter.com
@@ -7237,6 +7238,7 @@
 0.0.0.0 zco.com
 0.0.0.0 zealangel.com
 0.0.0.0 zedbubble.com
+0.0.0.0 zenatch.com
 0.0.0.0 zenhotels.com
 0.0.0.0 zetonelimited.com
 0.0.0.0 ziickgeektime.top
