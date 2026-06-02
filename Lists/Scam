@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 7,260
-# Updated: 6/1/2026  21:06 (9:06 PM CST)
+# Domains: 7,262
+# Updated: 6/1/2026  21:07 (9:07 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -5470,6 +5470,8 @@ reputtiion.com
 requiremenk.com
 requisitem.com
 rersarctic.com
+rescue-hearts.com
+rescue-hearts.org
 researchchemicalsofficial.com
 resemble-notify.com
 reservationk.com

@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 7,260
-# Updated: 6/1/2026  21:06 (9:06 PM CST)
+# Domains: 7,262
+# Updated: 6/1/2026  21:07 (9:07 PM CST)
 #
 0.0.0.0 007-dvd.com
 0.0.0.0 0-google.com
@@ -5466,6 +5466,8 @@
 0.0.0.0 requiremenk.com
 0.0.0.0 requisitem.com
 0.0.0.0 rersarctic.com
+0.0.0.0 rescue-hearts.com
+0.0.0.0 rescue-hearts.org
 0.0.0.0 researchchemicalsofficial.com
 0.0.0.0 resemble-notify.com
 0.0.0.0 reservationk.com
