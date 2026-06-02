@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 7,258
-# Updated: 6/1/2026  12:56 (12:56 PM CST)
+# Domains: 7,260
+# Updated: 6/1/2026  21:06 (9:06 PM CST)
 #
 0.0.0.0 007-dvd.com
 0.0.0.0 0-google.com
@@ -401,6 +401,8 @@
 0.0.0.0 androidusbdrivers.com
 0.0.0.0 aneedtools.com
 0.0.0.0 anexplicit.com
+0.0.0.0 angelpawsfund.com
+0.0.0.0 angelpawsfund.org
 0.0.0.0 angelstee.com
 0.0.0.0 angolabusinessdaily.com
 0.0.0.0 anicevisual.com
