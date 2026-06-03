@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 7,262
-# Updated: 6/1/2026  21:07 (9:07 PM CST)
+# Domains: 7,263
+# Updated: 6/3/2026  10:06 (10:06 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -4064,6 +4064,7 @@ metalgardendogs.com
 metallicnte.com
 metallicy.com
 metalscrapsolution.com
+metaxpay.io
 meteew.com
 metroeastsun.com
 metrolexnews.com

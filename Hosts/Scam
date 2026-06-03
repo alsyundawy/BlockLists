@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 7,262
-# Updated: 6/1/2026  21:07 (9:07 PM CST)
+# Domains: 7,263
+# Updated: 6/3/2026  10:06 (10:06 AM CST)
 #
 0.0.0.0 007-dvd.com
 0.0.0.0 0-google.com
@@ -4060,6 +4060,7 @@
 0.0.0.0 metallicnte.com
 0.0.0.0 metallicy.com
 0.0.0.0 metalscrapsolution.com
+0.0.0.0 metaxpay.io
 0.0.0.0 meteew.com
 0.0.0.0 metroeastsun.com
 0.0.0.0 metrolexnews.com
