@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 7,267
-# Updated: 6/3/2026  12:21 (12:21 PM CST)
+# Domains: 7,268
+# Updated: 6/3/2026  21:27 (9:27 PM CST)
 #
 0.0.0.0 007-dvd.com
 0.0.0.0 0-google.com
@@ -2866,6 +2866,7 @@
 0.0.0.0 goldenbirdsgo.com
 0.0.0.0 goldendoodle.homesteadcloud.com
 0.0.0.0 goldenmore.com
+0.0.0.0 goldenretrieverbreeder.com
 0.0.0.0 goldenretrieverpuppshome.zohosites.com
 0.0.0.0 goldenretrieverpupshome.zohosites.com
 0.0.0.0 goldenstatetoday.com
