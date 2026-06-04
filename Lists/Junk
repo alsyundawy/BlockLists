@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 979
-# Updated: 5/26/2026  23:06 (11:06 PM CST)
+# Domains: 962
+# Updated: 6/4/2026  00:19 (12:19 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -15,131 +15,16 @@ start.ubuntu.com                                    #Ubuntu - Default Browser Ho
 acms.carconnectivity.org                            #Android  Screen Mirror
 carconnectivity.org                                 #Android  Screen Mirror
 
-pc.airdroid.com                                     #Android  [App]   AirDroid (Home Tab - Forum Integration)
-pc.airdroid.com.s3-website-us-east-1.amazonaws.com  #Android  [App]   AirDroid (Home Tab - Forum Integration)
-srv3.airdroid.com                                   #Android  [App]   AirDroid (Home Tab - Forum Integration)
-
-alliance4creativity.com                             #Anti-Piracy
-
-superantispyware.com                                #Antimalware  SuperAntiSpyware
-enigmasoftware.com                                  #Antimalware  SpyHunter
-
-360.cn                                              #Antivirus    360 Total Security
-360.com                                             #Antivirus    360 Total Security
-360os.com                                           #Antivirus    360 Total Security
-360safe.com                                         #Antivirus    360 Total Security
-360totalsecurity.com                                #Antivirus    360 Total Security
-adaware.com                                         #Antivirus    Adaware
-lavasoft.com                                        #Antivirus    Adaware
-webcompanion.com                                    #Antivirus    Adaware
-assets-client.avgbrowser.com                        #Antivirus     AVG  Browser
-avgbrowser.com                                      #Antivirus     AVG  Browser
-browser-update.avg.com                              #Antivirus     AVG  Browser
-cdn-download.avgbrowser.com                         #Antivirus     AVG  Browser
-ext-update.avgbrowser.com                           #Antivirus     AVG  Browser
-installer.avgbrowser.com                            #Antivirus     AVG  Browser
-onboarding.avgbrowser.com                           #Antivirus     AVG  Browser
-isearch.avg.com                                     #Antivirus     AVG  Browser Search Engine
-update-tuneup.avg.com                               #Antivirus     AVG    TuneUp
-tu.update.avg.com                                   #Antivirus     AVG    TuneUp
-tu.backup.avg.cz                                    #Antivirus     AVG    TuneUp
-download-webtuneup.avg.com                          #Antivirus     AVG  WebTuneUp
-webtuneup.avg.com                                   #Antivirus     AVG  WebTuneUp
-ipm-provider.ff.avast.com                           #Antivirus     AVG    Upgrade Ads (May break Subscription Status Check *AVG still works normal)
-cloud.avg.com                                       #Antivirus     AVG
-mysearch.avg.com                                    #Antivirus     AVG
-toolbar.avg.com                                     #Antivirus     AVG
-zas-api.avg.com                                     #Antivirus     AVG
-prod.tl.avira.com                                   #Antivirus    Avira
-asu.aa.avast.com                                    #Antivirus   Avast
-avastbrowser.com                                    #Antivirus   Avast - Browser
-dnd.tools.avast.com                                 #Antivirus   Avast
-driver-updater.svc.avast.com                        #Antivirus   Avast - Driver Updater
-emupdate.avast.com                                  #Antivirus   Avast
-engagement.avastbrowser.com                         #Antivirus   Avast - Browser
-gf.tools.avast.com                                  #Antivirus   Avast
-gm.tools.avast.com                                  #Antivirus   Avast
-ipmcdn.avast.com                                    #Antivirus   Avast
-mailshell.net                                       #Antivirus   Avast | AVG | Avira | Sophos (Web/Email Filter)
-ncc.avast.com                                       #Antivirus   Avast - Network Connectivity Test
-p001.sb.avast.com                                   #Antivirus   Avast
-p002.sb.avast.com                                   #Antivirus   Avast
-program.avast.com                                   #Antivirus   Avast
-securebrowser.avast.tools.avcdn.net                 #Antivirus   Avast - Browser
-spotlight.my.avira.com                              #Antivirus   Avast - Spotlight
-tuneup.avast.tools.avcdn.net                        #Antivirus   Avast - TuneUp
-tuneup.engine.avcdn.net                             #Antivirus   Avast - TuneUp
-uupdate.avast.com                                   #Antivirus   Avast
-da3e3.net                                           #Antivirus    BitDefender2
-ocsp.comodoca4.com                                  #Antivirus     Comodo (Online Certificate Status Protocol)
-ocsp.comodoca.com                                   #Antivirus     Comodo (Online Certificate Status Protocol)
-accounts.comodo.com                                 #Antivirus     Comodo
-cmc.comodo.com                                      #Antivirus     Comodo
-consumer2.valkyrie.comodo.com                       #Antivirus     Comodo
-cspreports.comodo.com                               #Antivirus     Comodo
-fls6.security.comodo.com                            #Antivirus     Comodo
-fls.security.comodo.com                             #Antivirus     Comodo
-flsservices.security.comodo.com                     #Antivirus     Comodo
-trustlogo.comodo.com                                #Antivirus     Comodo
-usfftp.security.comodo.com                          #Antivirus     Comodo
-fortect.com                                         #Antivirus    Fortect
-ijinshan.com                                        #Antivirus    Kingsoft
-cloudantivirus.com                                  #Antivirus    Panda
-pandasecurity.com                                   #Antivirus    Panda
-pandasoftware.com                                   #Antivirus    Panda
-stopzilla.com                                       #Antivirus    StopZilla
-totaldefense.com                                    #Antivirus    Total Defense
-ultrasecureav.com                                   #Antivirus    Ultra Secure AV
-aurasvc.io                                          #Antivirus    UltraAV (pango.co)
-ultraantivirus.com                                  #Antivirus    UltraAV (pango.co)
-webrootanywhere.com                                 #Antivirus    Webroot
-webrootcloudav.com                                  #Antivirus    Webroot
-webroot.com                                         #Antivirus    Webroot
-webrootdns.net                                      #Antivirus    Webroot
-webrootmobile.com                                   #Antivirus    Webroot
-webrootmultiplatform.com                            #Antivirus    Webroot
-
-liteapps.mcafee.com                                 #Antivirus     McAfee
-webadvisorc.rest.gti.mcafee.com                     #Antivirus     McAfee Webadvisor
-nsg.symantec.com                                    #Antivirus   Norton
-ratings-wrs.symantec.com                            #Antivirus   Norton
-ipv6-iaus.trendmicro.com                            #Antivirus   TrendMicro
-ipv6.iau.trendmicro.com                             #Antivirus   TrendMicro
-
-accessibilityserver.org                             #Accessibility Widget
-accessibly.apps.onthemapmarketing.com               #Accessibility Widget
-accessibly.onthemapmarketing.com                    #Accessibility Widget
-d5c8kzvnetr32.cloudfront.net                        #Accessibility Widget
-dlieyhrm30x3f.cloudfront.net                        #Accessibility Widget
-equally.ai                                          #Accessibility Widget
-nagich.co.il                                        #Accessibility Widget
-nagich.com                                          #Accessibility Widget
-onlineada.com                                       #Accessibility Widget
-userway.org                                         #Accessibility Widget
-api.userway.org                                     #Accessibility Widget
-usrwy.com                                           #Accessibility Widget
-
-breadfinancial.com                                  #Alt Pay Method
-breadpayments.com                                   #Alt Pay Method
-fnbo.com                                            #Alt Pay Method
-getbread.com                                        #Alt Pay Method
-klarnaevt.com                                       #Alt Pay Method
-klarnaservices.com                                  #Alt Pay Method
-paytomorrow.com                                     #Alt Pay Method
-splitit.com                                         #Alt Pay Method
-splitit-images-prod-new.s3.amazonaws.com            #Alt Pay Method
-syfpayments.com                                     #Alt Pay Method
-zip.co                                              #Alt Pay Method
-zipmoney.com.au                                     #Alt Pay Method
-
 airdroid-img2.s3.amazonaws.com                      #Android  [App]   AirDroid
 dl.airdroid.com                                     #Android  [App]   AirDroid
 img4.airdroid.com                                   #Android  [App]   AirDroid
 lb.airdroid.com                                     #Android  [App]   AirDroid
+pc.airdroid.com                                     #Android  [App]   AirDroid (Home Tab - Forum Integration)
+pc.airdroid.com.s3-website-us-east-1.amazonaws.com  #Android  [App]   AirDroid (Home Tab - Forum Integration)
+srv3.airdroid.com                                   #Android  [App]   AirDroid (Home Tab - Forum Integration)
 td.airdroid.com                                     #Android  [App]   AirDroid
 uc-file.airdroid.com                                #Android  [App]   AirDroid
 ipv6.unagi-na.amazon.com                            #Android  [App]   Amazon Video
-dolphin-browser.com                                 #Android  [App]   Dolphin Browser
 applications.mobisystems.com                        #Android  [App]   File Commander
 cfg.mobisystems.com                                 #Android  [App]   File Commander
 connect.mobisystems.com                             #Android  [App]   File Commander
@@ -243,7 +128,6 @@ voodoo-tech.io                                      #Android  [App Studio]    Vo
 tfgco.com                                           #Android  [App Studio]    WildLife
 zeptolab.com                                        #Android  [App Studio]    Zepto Lab
 
-playerio.com                                        #Android  [Game Creator]  Player IO
 d3699v4tsyfjnd.cloudfront.net                       #Android  [Game Engine]   Unity 3D
 unity3d.com                                         #Android  [Game Engine]   Unity 3D
 
@@ -267,7 +151,110 @@ relicrun-sink-dv.sqexeu.com                         #Android  [Game]  Tomb Raide
 peoplefungames.appspot.com                          #Android  [Game]  Wordscapes
 word-cross.appspot.com                              #Android  [Game]  Wordscapes
 
+alliance4creativity.com                             #Anti-Piracy
+
+superantispyware.com                                #Antimalware  SuperAntiSpyware
+enigmasoftware.com                                  #Antimalware  SpyHunter
+
+360.cn                                              #Antivirus    360 Total Security
+360.com                                             #Antivirus    360 Total Security
+360os.com                                           #Antivirus    360 Total Security
+360safe.com                                         #Antivirus    360 Total Security
+360totalsecurity.com                                #Antivirus    360 Total Security
+adaware.com                                         #Antivirus    Adaware
+lavasoft.com                                        #Antivirus    Adaware
+webcompanion.com                                    #Antivirus    Adaware
+avgbrowser.com                                      #Antivirus     AVG  Browser
+browser-update.avg.com                              #Antivirus     AVG  Browser
+isearch.avg.com                                     #Antivirus     AVG  Browser Search Engine
+update-tuneup.avg.com                               #Antivirus     AVG    TuneUp
+tu.update.avg.com                                   #Antivirus     AVG    TuneUp
+tu.backup.avg.cz                                    #Antivirus     AVG    TuneUp
+download-webtuneup.avg.com                          #Antivirus     AVG  WebTuneUp
+webtuneup.avg.com                                   #Antivirus     AVG  WebTuneUp
+ipm-provider.ff.avast.com                           #Antivirus     AVG    Upgrade Ads (May break Subscription Status Check, AVG still works normal)
+cloud.avg.com                                       #Antivirus     AVG
+mysearch.avg.com                                    #Antivirus     AVG
+toolbar.avg.com                                     #Antivirus     AVG
+zas-api.avg.com                                     #Antivirus     AVG
+prod.tl.avira.com                                   #Antivirus    Avira
+asu.aa.avast.com                                    #Antivirus   Avast
+avastbrowser.com                                    #Antivirus   Avast - Browser
+driver-updater.svc.avast.com                        #Antivirus   Avast - Driver Updater
+emupdate.avast.com                                  #Antivirus   Avast
+engagement.avastbrowser.com                         #Antivirus   Avast - Browser
+ipmcdn.avast.com                                    #Antivirus   Avast
+mailshell.net                                       #Antivirus   Avast | AVG | Avira | Sophos (Web/Email Filter)
+ncc.avast.com                                       #Antivirus   Avast - Network Connectivity Test
+p001.sb.avast.com                                   #Antivirus   Avast
+p002.sb.avast.com                                   #Antivirus   Avast
+program.avast.com                                   #Antivirus   Avast
+securebrowser.avast.tools.avcdn.net                 #Antivirus   Avast - Browser
+spotlight.my.avira.com                              #Antivirus   Avast - Spotlight
+tools.avast.com                                     #Antivirus   Avast
+tuneup.avast.tools.avcdn.net                        #Antivirus   Avast - TuneUp
+tuneup.engine.avcdn.net                             #Antivirus   Avast - TuneUp
+uupdate.avast.com                                   #Antivirus   Avast
+da3e3.net                                           #Antivirus    BitDefender2
+ocsp.comodoca4.com                                  #Antivirus     Comodo (Online Certificate Status Protocol)
+ocsp.comodoca.com                                   #Antivirus     Comodo (Online Certificate Status Protocol)
+accounts.comodo.com                                 #Antivirus     Comodo
+cmc.comodo.com                                      #Antivirus     Comodo
+consumer2.valkyrie.comodo.com                       #Antivirus     Comodo
+cspreports.comodo.com                               #Antivirus     Comodo
+fls6.security.comodo.com                            #Antivirus     Comodo
+fls.security.comodo.com                             #Antivirus     Comodo
+flsservices.security.comodo.com                     #Antivirus     Comodo
+trustlogo.comodo.com                                #Antivirus     Comodo
+usfftp.security.comodo.com                          #Antivirus     Comodo
+fortect.com                                         #Antivirus    Fortect
+ijinshan.com                                        #Antivirus    Kingsoft
+liteapps.mcafee.com                                 #Antivirus     McAfee
+webadvisorc.rest.gti.mcafee.com                     #Antivirus     McAfee Webadvisor
+nsg.symantec.com                                    #Antivirus   Norton
+ratings-wrs.symantec.com                            #Antivirus   Norton
+cloudantivirus.com                                  #Antivirus    Panda
+pandasecurity.com                                   #Antivirus    Panda
+pandasoftware.com                                   #Antivirus    Panda
+stopzilla.com                                       #Antivirus   StopZilla
+totaldefense.com                                    #Antivirus   Total Defense
+ipv6-iaus.trendmicro.com                            #Antivirus   TrendMicro
+ipv6.iau.trendmicro.com                             #Antivirus   TrendMicro
+ultrasecureav.com                                   #Antivirus    Ultra Secure AV
+aurasvc.io                                          #Antivirus    UltraAV (pango.co)
+ultraantivirus.com                                  #Antivirus    UltraAV (pango.co)
+webrootanywhere.com                                 #Antivirus    Webroot
+webrootcloudav.com                                  #Antivirus    Webroot
+webroot.com                                         #Antivirus    Webroot
+webrootdns.net                                      #Antivirus    Webroot
+webrootmobile.com                                   #Antivirus    Webroot
+webrootmultiplatform.com                            #Antivirus    Webroot
+
+accessibilityserver.org                             #Accessibility Widget
+d5c8kzvnetr32.cloudfront.net                        #Accessibility Widget
+dlieyhrm30x3f.cloudfront.net                        #Accessibility Widget
+equally.ai                                          #Accessibility Widget
+nagich.co.il                                        #Accessibility Widget
+nagich.com                                          #Accessibility Widget
+onlineada.com                                       #Accessibility Widget
+userway.org                                         #Accessibility Widget
+usrwy.com                                           #Accessibility Widget
+
+breadfinancial.com                                  #Alt Pay Method
+breadpayments.com                                   #Alt Pay Method
+fnbo.com                                            #Alt Pay Method
+getbread.com                                        #Alt Pay Method
+klarnaevt.com                                       #Alt Pay Method
+klarnaservices.com                                  #Alt Pay Method
+paytomorrow.com                                     #Alt Pay Method
+splitit.com                                         #Alt Pay Method
+splitit-images-prod-new.s3.amazonaws.com            #Alt Pay Method
+syfpayments.com                                     #Alt Pay Method
+zip.co                                              #Alt Pay Method
+zipmoney.com.au                                     #Alt Pay Method
+
 ccleanerbrowser.com                                 #Browser - Ccleaner
+dolphin-browser.com                                 #Browser - Dolphin
 orbitum.com                                         #Browser - Orbitum
 uc.cn                                               #Browser - UC
 ucweb.com                                           #Browser - UC
@@ -281,6 +268,7 @@ getadblock.com                                      #Browser Extension
 gingersoftware.com                                  #Browser Extension
 vid-adblocker.com                                   #Browser Extension
 video-adblock.com                                   #Browser Extension
+videodownloaderultimate.com                         #Browser Extension
 
 
 curtivendi.com.br                                   #Cash Back
@@ -316,59 +304,59 @@ candycrush.king.com                                    #Game - Win 10 Start Tile
 candycrushsoda.king.com                                #Game - Win 10 Start Tile
 ccs.play.king.com                                      #Game - Win 10 Start Tile
 
-gamelift-ping.af-south-1.api.aws                       #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.ap-east-1.api.aws                        #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.ap-northeast-1.api.aws                   #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.ap-northeast-2.api.aws                   #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.ap-south-1.api.aws                       #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.ap-southeast-1.api.aws                   #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.ap-southeast-2.api.aws                   #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.ca-central-1.api.aws                     #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.eu-central-1.api.aws                     #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.eu-north-1.api.aws                       #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.eu-south-1.api.aws                       #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.eu-west-1.api.aws                        #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.eu-west-2.api.aws                        #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.eu-west-3.api.aws                        #Games  Foreign game servers - High ping, if from USA
-gamelift-ping.sa-east-1.api.aws                        #Games  Foreign game servers - High ping, if from USA
-pfmsqos.australiaeast.cloudapp.azure.com               #Games  Foreign game servers - High ping, if from USA
-pfmsqos.australiasoutheast.cloudapp.azure.com          #Games  Foreign game servers - High ping, if from USA
-pfmsqos.brazilsouth.cloudapp.azure.com                 #Games  Foreign game servers - High ping, if from USA
-pfmsqos.eastasia.cloudapp.azure.com                    #Games  Foreign game servers - High ping, if from USA
-pfmsqos.japaneast.cloudapp.azure.com                   #Games  Foreign game servers - High ping, if from USA
-pfmsqos.japanwest.cloudapp.azure.com                   #Games  Foreign game servers - High ping, if from USA
-pfmsqos.northeurope.cloudapp.azure.com                 #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod1-0.australiaeast.cloudapp.azure.com        #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod1-0.brazilsouth.cloudapp.azure.com          #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod1-0.eastasia.cloudapp.azure.com             #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod1-0.japaneast.cloudapp.azure.com            #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod1-0.northeurope.cloudapp.azure.com          #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod1-0.southafricanorth.cloudapp.azure.com     #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod1-0.southeastasia.cloudapp.azure.com        #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod1-0.uaenorth.cloudapp.azure.com             #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod1-0.westeurope.cloudapp.azure.com           #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod2-0.australiaeast.cloudapp.azure.com        #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod2-0.brazilsouth.cloudapp.azure.com          #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod2-0.eastasia.cloudapp.azure.com             #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod2-0.japaneast.cloudapp.azure.com            #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod2-0.northeurope.cloudapp.azure.com          #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod2-0.southafricanorth.cloudapp.azure.com     #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod2-0.southeastasia.cloudapp.azure.com        #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod2-0.uaenorth.cloudapp.azure.com             #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod2-0.westeurope.cloudapp.azure.com           #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod.australiaeast.cloudapp.azure.com           #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod.australiasoutheast.cloudapp.azure.com      #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod.eastasia.cloudapp.azure.com                #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod.japaneast.cloudapp.azure.com               #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod.japanwest.cloudapp.azure.com               #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod.northeurope.cloudapp.azure.com             #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod.southafricanorth.cloudapp.azure.com        #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod.southeastasia.cloudapp.azure.com           #Games  Foreign game servers - High ping, if from USA
-pfmsqosprod.westeurope.cloudapp.azure.com              #Games  Foreign game servers - High ping, if from USA
-pfmsqos.southafricanorth.cloudapp.azure.com            #Games  Foreign game servers - High ping, if from USA
-pfmsqos.southeastasia.cloudapp.azure.com               #Games  Foreign game servers - High ping, if from USA
-pfmsqos.westeurope.cloudapp.azure.com                  #Games  Foreign game servers - High ping, if from USA
-pfmsqssi.uaenorth.cloudapp.azure.com                   #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.af-south-1.api.aws                       #Games - Non-USA Servers
+gamelift-ping.ap-east-1.api.aws                        #Games - Non-USA Servers
+gamelift-ping.ap-northeast-1.api.aws                   #Games - Non-USA Servers
+gamelift-ping.ap-northeast-2.api.aws                   #Games - Non-USA Servers
+gamelift-ping.ap-south-1.api.aws                       #Games - Non-USA Servers
+gamelift-ping.ap-southeast-1.api.aws                   #Games - Non-USA Servers
+gamelift-ping.ap-southeast-2.api.aws                   #Games - Non-USA Servers
+gamelift-ping.ca-central-1.api.aws                     #Games - Non-USA Servers
+gamelift-ping.eu-central-1.api.aws                     #Games - Non-USA Servers
+gamelift-ping.eu-north-1.api.aws                       #Games - Non-USA Servers
+gamelift-ping.eu-south-1.api.aws                       #Games - Non-USA Servers
+gamelift-ping.eu-west-1.api.aws                        #Games - Non-USA Servers
+gamelift-ping.eu-west-2.api.aws                        #Games - Non-USA Servers
+gamelift-ping.eu-west-3.api.aws                        #Games - Non-USA Servers
+gamelift-ping.sa-east-1.api.aws                        #Games - Non-USA Servers
+pfmsqos.australiaeast.cloudapp.azure.com               #Games - Non-USA Servers
+pfmsqos.australiasoutheast.cloudapp.azure.com          #Games - Non-USA Servers
+pfmsqos.brazilsouth.cloudapp.azure.com                 #Games - Non-USA Servers
+pfmsqos.eastasia.cloudapp.azure.com                    #Games - Non-USA Servers
+pfmsqos.japaneast.cloudapp.azure.com                   #Games - Non-USA Servers
+pfmsqos.japanwest.cloudapp.azure.com                   #Games - Non-USA Servers
+pfmsqos.northeurope.cloudapp.azure.com                 #Games - Non-USA Servers
+pfmsqosprod1-0.australiaeast.cloudapp.azure.com        #Games - Non-USA Servers
+pfmsqosprod1-0.brazilsouth.cloudapp.azure.com          #Games - Non-USA Servers
+pfmsqosprod1-0.eastasia.cloudapp.azure.com             #Games - Non-USA Servers
+pfmsqosprod1-0.japaneast.cloudapp.azure.com            #Games - Non-USA Servers
+pfmsqosprod1-0.northeurope.cloudapp.azure.com          #Games - Non-USA Servers
+pfmsqosprod1-0.southafricanorth.cloudapp.azure.com     #Games - Non-USA Servers
+pfmsqosprod1-0.southeastasia.cloudapp.azure.com        #Games - Non-USA Servers
+pfmsqosprod1-0.uaenorth.cloudapp.azure.com             #Games - Non-USA Servers
+pfmsqosprod1-0.westeurope.cloudapp.azure.com           #Games - Non-USA Servers
+pfmsqosprod2-0.australiaeast.cloudapp.azure.com        #Games - Non-USA Servers
+pfmsqosprod2-0.brazilsouth.cloudapp.azure.com          #Games - Non-USA Servers
+pfmsqosprod2-0.eastasia.cloudapp.azure.com             #Games - Non-USA Servers
+pfmsqosprod2-0.japaneast.cloudapp.azure.com            #Games - Non-USA Servers
+pfmsqosprod2-0.northeurope.cloudapp.azure.com          #Games - Non-USA Servers
+pfmsqosprod2-0.southafricanorth.cloudapp.azure.com     #Games - Non-USA Servers
+pfmsqosprod2-0.southeastasia.cloudapp.azure.com        #Games - Non-USA Servers
+pfmsqosprod2-0.uaenorth.cloudapp.azure.com             #Games - Non-USA Servers
+pfmsqosprod2-0.westeurope.cloudapp.azure.com           #Games - Non-USA Servers
+pfmsqosprod.australiaeast.cloudapp.azure.com           #Games - Non-USA Servers
+pfmsqosprod.australiasoutheast.cloudapp.azure.com      #Games - Non-USA Servers
+pfmsqosprod.eastasia.cloudapp.azure.com                #Games - Non-USA Servers
+pfmsqosprod.japaneast.cloudapp.azure.com               #Games - Non-USA Servers
+pfmsqosprod.japanwest.cloudapp.azure.com               #Games - Non-USA Servers
+pfmsqosprod.northeurope.cloudapp.azure.com             #Games - Non-USA Servers
+pfmsqosprod.southafricanorth.cloudapp.azure.com        #Games - Non-USA Servers
+pfmsqosprod.southeastasia.cloudapp.azure.com           #Games - Non-USA Servers
+pfmsqosprod.westeurope.cloudapp.azure.com              #Games - Non-USA Servers
+pfmsqos.southafricanorth.cloudapp.azure.com            #Games - Non-USA Servers
+pfmsqos.southeastasia.cloudapp.azure.com               #Games - Non-USA Servers
+pfmsqos.westeurope.cloudapp.azure.com                  #Games - Non-USA Servers
+pfmsqssi.uaenorth.cloudapp.azure.com                   #Games - Non-USA Servers
 
 emapi.prm.data.ea.com                                  #Games [Studio]  EA
 eamobile.com                                           #Games [Studio]  EA
@@ -376,6 +364,7 @@ m2u.sn.eamobile.com                                    #Games [Studio]  EA
 product.sn.eamobile.com                                #Games [Studio]  EA
 easybrain.com                                          #Games [Studio]  EasyBrain
 king.com                                               #Games [Studio]  King
+playerio.com                                           #Games [Studio]  Player IO
 
 pay.mgapex.com                                         #Game   Apex Legends - In Game Purchases
 pachinko-api.wbagora.com                               #Game   Injustice 2 - Multiplayer
@@ -391,16 +380,9 @@ panopto.com                                         #Screen Recorder
 screencastify.com                                   #Screen Recorder
 techsmith.com                                       #Screen Recorder
 
-cdntip.com                                          #Company - Shenzhen Tencent Computer Systems
-cdntips.net                                         #Company - Shenzhen Tencent Computer Systems
-tencent.com                                         #Company - Shenzhen Tencent Computer Systems
-
 sail.to                                             #Redirector
 webalias.com                                        #Redirector
 
-videodownloaderultimate.com                         #Browser Extension - Video Downloader Professional
-
-api.qrserver.com                                    #QR Codes
 qrserver.com                                        #QR Codes
 
 arc.io                                              #Share Bandwidth
@@ -409,19 +391,23 @@ overmind.arc.io                                     #Share Bandwidth
 socket.arc.io                                       #Share Bandwidth
 static.arc.io                                       #Share Bandwidth
 
+admuncher.com                                       #Software    AdMuncher
 cc-api-data.adobe.io                                #Software   Adobe - Cloud Services
 cloud.acrobat.com                                   #Software   Adobe - Cloud Services
 dc-api.adobe.io                                     #Software   Adobe - Document Cloud
 pojvrj7ho5.adobe.io                                 #Software   Adobe - License Pop-Up
-bst-launcher-sgp.bluestacks.cn                      #Software   BlueStacks (Android Emulator)
-bsxplayerv13.bluestacks.com                         #Software   BlueStacks (Android Emulator)
-cdn-wallet.now.gg                                   #Software   BlueStacks (Android Emulator)
-eb.bluestacks.com                                   #Software   BlueStacks (Android Emulator)
-wallet.now.gg                                       #Software   BlueStacks (Android Emulator)
-webapi-cloud.bluestacks.com                         #Software   BlueStacks (Android Emulator)
-x-api.bluestacks.com                                #Software   BlueStacks (Android Emulator)
-passwordsleakcheck-pa.googleapis.com                #Software      Chrome (Compare site to leaked sites)  *Tracking
-block-edge-anycast.dropbox.com                      #Software     DropBox
+appsgeyser.com                                      #Software   AppsGeyser
+asusappnw.com                                       #Software  Asus (MyASUS Service Center)
+bst-launcher-sgp.bluestacks.cn                      #Software    BlueStacks (Android Emulator)
+bsxplayerv13.bluestacks.com                         #Software    BlueStacks (Android Emulator)
+cdn-wallet.now.gg                                   #Software    BlueStacks (Android Emulator)
+eb.bluestacks.com                                   #Software    BlueStacks (Android Emulator)
+wallet.now.gg                                       #Software    BlueStacks (Android Emulator)
+webapi-cloud.bluestacks.com                         #Software    BlueStacks (Android Emulator)
+x-api.bluestacks.com                                #Software    BlueStacks (Android Emulator)
+passwordsleakcheck-pa.googleapis.com                #Software     Chrome (Compare site to leaked sites)  *Tracking
+curseapp.net                                        #Software   Curse (In-Game Voice Chat)
+block-edge-anycast.dropbox.com                      #Software    DropBox
 ciscobinary.openh264.org                            #Software   FireFox    Bloat   openh264
 openh264.org                                        #Software   FireFox    Bloat   openh264
 donate.mozilla.org                                  #Software   FireFox    Donate
@@ -447,32 +433,57 @@ prod.detectportal.prod.cloudops.mozgcp.net          #Software   FireFox
 firefox.settings.services.mozilla.com               #Software   FireFox
 snippets.cdn.mozilla.net                            #Software   FireFox
 snippets.mozilla.com                                #Software   FireFox
+glarysoft.com                                       #Software  Glary Utilities
+iolo.com                                            #Software    Iolo (System Mechanic)
+iolo.net                                            #Software    Iolo (System Mechanic)
 whatsnew.libreoffice.org                            #Software      LibreOffice (Popup, after update)
+magix.com                                           #Software  Maxig (System Optimizer)
+simplitec.com                                       #Software  Maxig (System Optimizer)
 mymotocast.com                                      #Software      Motorola  - MotoCast (Defunct)
+movavi.com                                          #Software   Movavi (Says not activated with legit key / Does not show in program list)
+movavi.de                                           #Software   Movavi (Says not activated with legit key / Does not show in program list)
+movavi.id                                           #Software   Movavi (Says not activated with legit key / Does not show in program list)
+duapp.com                                           #Software  Nox (Android Emulator)
 services.gfe.nvidia.com                             #Software      Nvidia - GeForce Experience (Updates)
 af.opera.com                                        #Software    Opera - Autofill
 desktop-assistant-sub.osp.opera.software            #Software    Opera - Desktop Assistant
 browser-notifications.opera.com                     #Software    Opera - Notifications
 sd-suggestions.operacdn.com                         #Software    Opera - Speed Dial Suggestions
 cashback.opera.com                                  #Software    Opera - Cash Back
+appexnw.com                                         #Software  Pokki (Start Menu)
+pokki.com                                           #Software  Pokki (Start Menu)
+pokkinw.com                                         #Software  Pokki (Start Menu)
 cashback-api-production.operacdn.com                #Software    Opera - Cash Back
-plugon.us                                           #Software      ShowMyPc  After Exit
+real.com                                            #Software      RealPlayer
+plugon.us                                           #Software     ShowMyPc  After Exit
 steambroadcast.akamaized.net                        #Software    Steam - Broadcast Gameplay
 ipv6check-http.steamcontent.com                     #Software    Steam
 ipv6check-http.steamserver.net                      #Software    Steam
 ipv6check-udp.steamcontent.com                      #Software    Steam
 ipv6check-udp.steamserver.net                       #Software    Steam
-void.steelseries.com                                #Software        SteelSeries - Nahimic Audio (MSI Laptop)
+void.steelseries.com                                #Software      SteelSeries - Nahimic Audio (MSI Laptop)
+quickconnect.to                                     #Software   Synology QuickConnect (Cloud Storage)
 thunderbird-settings.thunderbird.net                #Software   Thunderbird (?) Kinto
-bench.utorrent.com                                  #Software      µTorrent
-macupdate.utorrent.com                              #Software      µTorrent - Updates
-search.utorrent.com                                 #Software      µTorrent
-toolbar.utorrent.com                                #Software      µTorrent
-update.bittorrent.com                               #Software      µTorrent - Updates
-update.utorrent.com                                 #Software      µTorrent - Updates
-update.utorrent.li                                  #Software      µTorrent - Updates
-user.utorrent.com                                   #Software      µTorrent
-utclient.utorrent.com                               #Software      µTorrent
+bench.utorrent.com                                  #Software     µTorrent
+macupdate.utorrent.com                              #Software     µTorrent - Updates
+search.utorrent.com                                 #Software     µTorrent
+toolbar.utorrent.com                                #Software     µTorrent
+update.bittorrent.com                               #Software     µTorrent - Updates
+update.utorrent.com                                 #Software     µTorrent - Updates
+update.utorrent.li                                  #Software     µTorrent - Updates
+user.utorrent.com                                   #Software     µTorrent
+utclient.utorrent.com                               #Software     µTorrent
+weatherbug.com                                      #Software  Weatherbug
+weatherbug.net                                      #Software  Weatherbug
+remotewd.com                                        #Software  Western Digital (Cloud Storage)
+wdtest8.com                                         #Software  Western Digital (Cloud Storage)
+ampsvc.com                                          #Software  WildTangent Games
+winzip.com                                          #Software  Winzip
+kingsoft-office-service.com                         #Software  WPS Office
+kingsoftstore.com                                   #Software  WPS Office
+versiontracker.com                                  #Software  WPS Office
+wps.cn                                              #Software  WPS Office
+wps.com                                             #Software  WPS Office
 
 alchemer.com                                        #Survey
 asklayer.io                                         #Survey
@@ -485,7 +496,6 @@ clixsense.com                                       #Survey
 crowdsignal.com                                     #Survey
 d2yyd1h5u9mauk.cloudfront.net                       #Survey
 inmoment.com                                        #Survey
-lb.polldaddy.com                                    #Survey
 oneopinion.com                                      #Survey
 opinionbar.com                                      #Survey
 opinionstage.com                                    #Survey
@@ -495,7 +505,6 @@ poll-maker.com                                      #Survey
 ravecapture.com                                     #Survey
 riddle.com                                          #Survey
 samplicio.us                                        #Survey
-secure.polldaddy.com                                #Survey
 sprig.com                                           #Survey
 survey2you.com                                      #Survey
 survey.app.do                                       #Survey
@@ -503,13 +512,11 @@ survey.fm                                           #Survey
 survey.io                                           #Survey
 surveyrouter.com                                    #Survey
 tns-gallup.dk                                       #Survey
-ups.surveyrouter.com                                #Survey
 wenjuan.com                                         #Survey
 you-cubez.com                                       #Survey
 amdsurveys.com                                      #Survey - AMD
 delighted.com                                       #Survey - Delighted
 getfeedback.com                                     #Survey - Get Feedback
-websites.cdn.getfeedback.com                        #Survey - Get Feedback
 hpsasudf.ext.hp.com                                 #Survey - HP
 hyouka-ai.com                                       #Survey - Hyouka
 survey.instagram.com                                #Survey - Instagram
@@ -519,7 +526,6 @@ lifepointspanel.com                                 #Survey - Life Points
 demographics.neat.com                               #Survey - Neat Scanner
 qsurvey.mozilla.com                                 #Survey - Mozilla (Redirects to SurveyGizmo)
 nicequest.com                                       #Survey - Nicequest
-survey.nicequest.com                                #Survey - Nicequest
 strawpoll.com                                       #Survey - StrawPoll
 d2bnxibecyz4h5.cloudfront.net                       #Survey - Survey Gizmo
 surveygizmo.com                                     #Survey - Survey Gizmo
@@ -531,8 +537,7 @@ surveymonkey.com                                    #Survey - Survey Monkey
 surveymonkey.de                                     #Survey - Survey Monkey
 usabilla.com                                        #Survey - Survey Monkey (usabilla)
 surveysparrow.com                                   #Survey - Survey Sparrow
-surveys-static.survicate.com                        #Survey - Survicate
-survey.survicate.com                                #Survey - Survicate
+survicate-cdn.com                                   #Survey - Survicate
 survicate.com                                       #Survey - Survicate
 survio.com                                          #Survey - Survio
 toluna-analytics.com                                #Survey - Toluna
@@ -663,36 +668,6 @@ xtopbuzz.com                                        #TikTok
 xzcs3zlph.com                                       #TikTok
 yourbytematch.com                                   #TikTok
 
-admuncher.com                                       #Software - AdMuncher
-appsgeyser.com                                      #Software - AppsGeyser  (App Creator)
-asusappnw.com                                       #Software - Asus (MyASUS Service Center)
-curseapp.net                                        #Software - Curse  (In-Game Voice Chat)
-glarysoft.com                                       #Software - Glary Utilities
-iolo.com                                            #Software - Iolo (System Mechanic)
-iolo.net                                            #Software - Iolo (System Mechanic)
-magix.com                                           #Software - Maxig (System Optimizer)
-simplitec.com                                       #Software - Maxig (System Optimizer)
-movavi.com                                          #Software - Movavi (Says not activated with legit key / Does not show in program list)
-movavi.de                                           #Software - Movavi (Says not activated with legit key / Does not show in program list)
-movavi.id                                           #Software - Movavi (Says not activated with legit key / Does not show in program list)
-duapp.com                                           #Software - Nox (Android Emulator)
-appexnw.com                                         #Software - Pokki (Start Menu)
-pokki.com                                           #Software - Pokki (Start Menu)
-pokkinw.com                                         #Software - Pokki (Start Menu)
-real.com                                            #Software - RealPlayer
-quickconnect.to                                     #Software - Synology QuickConnect (Cloud Storage)
-weatherbug.com                                      #Software - Weatherbug
-weatherbug.net                                      #Software - Weatherbug
-remotewd.com                                        #Software - Western Digital (Cloud Storage)
-wdtest8.com                                         #Software - Western Digital (Cloud Storage)
-ampsvc.com                                          #Software - WildTangent Games
-winzip.com                                          #Software - Winzip
-kingsoft-office-service.com                         #Software - WPS Office
-kingsoftstore.com                                   #Software - WPS Office
-versiontracker.com                                  #Software - WPS Office
-wps.cn                                              #Software - WPS Office
-wps.com                                             #Software - WPS Office
-
 zoho.com                                            #Cloud Based Software - Zoho
 zohowebstatic.com                                   #Cloud Based Software - Zoho
 
@@ -770,8 +745,6 @@ wixstudio.com                                       #Website Builder
 xtgem.com                                           #Website Builder
 zohosites.com                                       #Website Builder
 
-lycos.com                                           #Search Engine - Links to malware
-
 sogou.com                                           #Search Engine [China]
 soso.com                                            #Search Engine [China]
 so.com                                              #Search Engine [French]
@@ -787,6 +760,7 @@ search.comodo.com                                   #Search Engine - Comodo
 search.com                                          #Search Engine - CBS
 cliqz.com                                           #Search Engine - Cliqz
 search.juno.com                                     #Search Engine - Juno
+lycos.com                                           #Search Engine  [Links to malware]
 search.yahoo.com                                    #Search Engine - Yahoo
 search.yahoo.net                                    #Search Engine - Yahoo
 copernicus-software.stores.yahoo.net                #Search Engine - Yahoo
@@ -802,6 +776,8 @@ snappea.com                                         #Video Downloader
 areyourinlove.com                                   #Enter Phone Number for answer
 
 emojirequest.com                                    #Sign in with facebook to recieve
+
+deaurher.tools                                      #Local Only
 
 experience.amd.com                                  #AMD
 ama-api.isappcloud.com                              #Acer  Cloud
@@ -990,9 +966,9 @@ mcn.lenovo.com.cn                                   #Lenovo
 mcn.lenovo.com                                      #Lenovo
 mus.lenovo.com                                      #Lenovo
 linksyssmartwifi.com                                #Linksys - Remote Router Login
-event.msi.com                                       #MSI - Check of Updates
+event.msi.com                                       #MSI     - Check of Updates
 samsungknox.com                                     #Samsung   Knox Security Tools
-gpm.samsungqbe.com                                  #Samsung + Google Play Music
+gpm.samsungqbe.com                                  #Samsung + Google Play Music<
 api.samsungcloud.com                                #Samsung - Might break updates
 api.rewards.internet.apps.samsung.com               #Samsung
 api.samsungapps.com                                 #Samsung
@@ -1014,7 +990,10 @@ user-api.internet.apps.samsung.com                  #Samsung
 us-odc.samsungapps.com                              #Samsung
 vas.samsungapps.com                                 #Samsung
 samsungnewsapi.picks.my                             #Samsung
-sonybivstatic-a.akamaihd.net                        #Sony       Smart TV ?
+cdntip.com                                          Shenzhen Tencent Computer Systems
+cdntips.net                                         Shenzhen Tencent Computer Systems
+tencent.com                                         Shenzhen Tencent Computer Systems
+sonybivstatic-a.akamaihd.net                        #Sony  Smart TV ?
 ssm1.internet.sony.tv                               #Sony
 ssm2.internet.sony.tv                               #Sony
 ssm3.internet.sony.tv                               #Sony
@@ -1033,5 +1012,3 @@ fbd.toshiba.com                                     #Toshiba
 n-deventry-smb.tplinkcloud.com                      #Tp-Link - Cloud (Network Switch)
 n-devs-smb.tplinkcloud.com                          #Tp-Link - Cloud (Network Switch)
 wo.vzwwo.com                                        #Verizon   Wifi Calling
-
-deaurher.tools                                      #Local Only

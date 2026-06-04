@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 580
-# Updated: 5/26/2026  16:05 (4:05 PM CST)
+# Domains: 581
+# Updated: 6/4/2026  00:19 (12:19 AM CST)
 #
 0.0.0.0 api.cognitive.microsoft.com
 0.0.0.0 australiaeast.api.cognitive.microsoft.com
@@ -112,6 +112,7 @@
 0.0.0.0 ipv6.msftconnecttest.com
 0.0.0.0 ipv6.msftncsi.com.edgesuite.net
 0.0.0.0 ipv6.msftncsi.com
+0.0.0.0 reflector.defender.microsoft.com
 0.0.0.0 teredo.ipv6.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 win1710.ipv6.microsoft.com

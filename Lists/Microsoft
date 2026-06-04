@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 580
-# Updated: 5/26/2026  16:05 (4:05 PM CST)
+# Domains: 581
+# Updated: 6/4/2026  00:19 (12:19 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -121,6 +121,7 @@ ipv6.microsoft.com                             #IPV6
 ipv6.msftconnecttest.com                       #IPV6
 ipv6.msftncsi.com.edgesuite.net                #IPV6
 ipv6.msftncsi.com                              #IPV6
+reflector.defender.microsoft.com               #IPV6 - Defender
 teredo.ipv6.microsoft.com                      #IPV6
 win10.ipv6.microsoft.com                       #IPV6
 win1710.ipv6.microsoft.com                     #IPV6
@@ -520,7 +521,6 @@ microsoftedgetips.microsoft.com
 microsoft.net
 microsoftonline.com
 microsoft.us
-
 modpim.com
 msappproxy.net
 mscrl.microsoft.com
